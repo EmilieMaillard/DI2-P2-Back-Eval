@@ -9,4 +9,12 @@ public interface IEventRepository
     /// </summary>
     /// <param name="entity"> The event to add. </param>
     void AddAsync(Event entity);
+    
+    /// <summary>
+    /// Get all events from the database.
+    /// </summary>
+    /// <returns></returns>
+    List<Event> GetAll();
+    
+    
 }

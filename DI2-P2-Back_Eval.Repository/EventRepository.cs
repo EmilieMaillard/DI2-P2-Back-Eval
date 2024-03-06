@@ -30,4 +30,15 @@ public class EventRepository : IEventRepository
         _dbContext.SaveChanges();
     }
     
+    /// <summary>
+    /// Get all events from the database.
+    /// </summary>
+    /// <returns> A list of all events. </returns>
+    public List<Event> GetAll()
+    {
+        return _dbContext.Set<Event>().ToList();
+    }
+    
+    
+    
 }

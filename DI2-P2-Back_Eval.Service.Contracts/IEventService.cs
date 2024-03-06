@@ -10,4 +10,10 @@ public interface IEventService
     /// <param name="entity"> The event to add. </param>
     /// <returns>True if the event was added. </returns>
     bool AddAsync(Event entity);
+    
+    /// <summary>
+    /// Get all events from the database.
+    /// </summary>
+    /// <returns> A list of all events. </returns>
+    List<Event> GetAll();
 }

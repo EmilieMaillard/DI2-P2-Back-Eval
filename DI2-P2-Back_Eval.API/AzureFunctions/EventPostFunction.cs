@@ -18,9 +18,9 @@ public class EventPostFunction
     /// <summary>
     /// Initializes a new instance of the <see cref="EventPostFunction"/> class.
     /// </summary>
-    public EventPostFunction()
+    public EventPostFunction(IEventService eventService)
     {
-        
+        _eventService = eventService;
     }
     
     /// <summary>

@@ -30,4 +30,13 @@ public class EventService : IEventService
         _eventRepository.AddAsync(entity);
         return true;
     }
+    
+    /// <summary>
+    /// Get all events from the database.
+    /// </summary>
+    /// <returns> A list of all events. </returns>
+    public List<Event> GetAll()
+    {
+        return _eventRepository.GetAll();
+    }
 }
