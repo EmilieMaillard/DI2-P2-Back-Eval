@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("DI2-P2-Back_Eval.Entity")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5dfe9e6f5e9a512e8cfd5f186ade21ebb1e8ffae")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+992f780c2c4b24708dad487ad904f95160c5ca59")]
 [assembly: System.Reflection.AssemblyProductAttribute("DI2-P2-Back_Eval.Entity")]
 [assembly: System.Reflection.AssemblyTitleAttribute("DI2-P2-Back_Eval.Entity")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
