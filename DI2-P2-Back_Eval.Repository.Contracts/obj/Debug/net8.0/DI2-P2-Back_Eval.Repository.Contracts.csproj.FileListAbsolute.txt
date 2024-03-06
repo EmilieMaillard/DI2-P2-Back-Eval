@@ -1,0 +1,12 @@
+C:\Users\Kourdouch\Documents\DIIAGE\DI2\P2\P2_Eval\DI2-P2-Back_Eval\DI2-P2-Back_Eval.Repository.Contracts\bin\Debug\net8.0\DI2-P2-Back_Eval.Repository.Contracts.deps.json
+C:\Users\Kourdouch\Documents\DIIAGE\DI2\P2\P2_Eval\DI2-P2-Back_Eval\DI2-P2-Back_Eval.Repository.Contracts\bin\Debug\net8.0\DI2-P2-Back_Eval.Repository.Contracts.dll
+C:\Users\Kourdouch\Documents\DIIAGE\DI2\P2\P2_Eval\DI2-P2-Back_Eval\DI2-P2-Back_Eval.Repository.Contracts\bin\Debug\net8.0\DI2-P2-Back_Eval.Repository.Contracts.pdb
+C:\Users\Kourdouch\Documents\DIIAGE\DI2\P2\P2_Eval\DI2-P2-Back_Eval\DI2-P2-Back_Eval.Repository.Contracts\obj\Debug\net8.0\DI2-P2-Back_Eval.Repository.Contracts.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kourdouch\Documents\DIIAGE\DI2\P2\P2_Eval\DI2-P2-Back_Eval\DI2-P2-Back_Eval.Repository.Contracts\obj\Debug\net8.0\DI2-P2-Back_Eval.Repository.Contracts.AssemblyInfoInputs.cache
+C:\Users\Kourdouch\Documents\DIIAGE\DI2\P2\P2_Eval\DI2-P2-Back_Eval\DI2-P2-Back_Eval.Repository.Contracts\obj\Debug\net8.0\DI2-P2-Back_Eval.Repository.Contracts.AssemblyInfo.cs
+C:\Users\Kourdouch\Documents\DIIAGE\DI2\P2\P2_Eval\DI2-P2-Back_Eval\DI2-P2-Back_Eval.Repository.Contracts\obj\Debug\net8.0\DI2-P2-Back_Eval.Repository.Contracts.csproj.CoreCompileInputs.cache
+C:\Users\Kourdouch\Documents\DIIAGE\DI2\P2\P2_Eval\DI2-P2-Back_Eval\DI2-P2-Back_Eval.Repository.Contracts\obj\Debug\net8.0\DI2-P2-Back_Eval.Repository.Contracts.sourcelink.json
+C:\Users\Kourdouch\Documents\DIIAGE\DI2\P2\P2_Eval\DI2-P2-Back_Eval\DI2-P2-Back_Eval.Repository.Contracts\obj\Debug\net8.0\DI2-P2-Back_Eval.Repository.Contracts.dll
+C:\Users\Kourdouch\Documents\DIIAGE\DI2\P2\P2_Eval\DI2-P2-Back_Eval\DI2-P2-Back_Eval.Repository.Contracts\obj\Debug\net8.0\refint\DI2-P2-Back_Eval.Repository.Contracts.dll
+C:\Users\Kourdouch\Documents\DIIAGE\DI2\P2\P2_Eval\DI2-P2-Back_Eval\DI2-P2-Back_Eval.Repository.Contracts\obj\Debug\net8.0\DI2-P2-Back_Eval.Repository.Contracts.pdb
+C:\Users\Kourdouch\Documents\DIIAGE\DI2\P2\P2_Eval\DI2-P2-Back_Eval\DI2-P2-Back_Eval.Repository.Contracts\obj\Debug\net8.0\ref\DI2-P2-Back_Eval.Repository.Contracts.dll

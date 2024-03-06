@@ -1,0 +1,12 @@
+C:\Users\Kourdouch\Documents\DIIAGE\DI2\P2\P2_Eval\DI2-P2-Back_Eval\DI2-P2-Back_Eval.Entity\bin\Debug\net8.0\DI2-P2-Back_Eval.Entity.deps.json
+C:\Users\Kourdouch\Documents\DIIAGE\DI2\P2\P2_Eval\DI2-P2-Back_Eval\DI2-P2-Back_Eval.Entity\bin\Debug\net8.0\DI2-P2-Back_Eval.Entity.dll
+C:\Users\Kourdouch\Documents\DIIAGE\DI2\P2\P2_Eval\DI2-P2-Back_Eval\DI2-P2-Back_Eval.Entity\bin\Debug\net8.0\DI2-P2-Back_Eval.Entity.pdb
+C:\Users\Kourdouch\Documents\DIIAGE\DI2\P2\P2_Eval\DI2-P2-Back_Eval\DI2-P2-Back_Eval.Entity\obj\Debug\net8.0\DI2-P2-Back_Eval.Entity.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kourdouch\Documents\DIIAGE\DI2\P2\P2_Eval\DI2-P2-Back_Eval\DI2-P2-Back_Eval.Entity\obj\Debug\net8.0\DI2-P2-Back_Eval.Entity.AssemblyInfoInputs.cache
+C:\Users\Kourdouch\Documents\DIIAGE\DI2\P2\P2_Eval\DI2-P2-Back_Eval\DI2-P2-Back_Eval.Entity\obj\Debug\net8.0\DI2-P2-Back_Eval.Entity.AssemblyInfo.cs
+C:\Users\Kourdouch\Documents\DIIAGE\DI2\P2\P2_Eval\DI2-P2-Back_Eval\DI2-P2-Back_Eval.Entity\obj\Debug\net8.0\DI2-P2-Back_Eval.Entity.csproj.CoreCompileInputs.cache
+C:\Users\Kourdouch\Documents\DIIAGE\DI2\P2\P2_Eval\DI2-P2-Back_Eval\DI2-P2-Back_Eval.Entity\obj\Debug\net8.0\DI2-P2-Back_Eval.Entity.sourcelink.json
+C:\Users\Kourdouch\Documents\DIIAGE\DI2\P2\P2_Eval\DI2-P2-Back_Eval\DI2-P2-Back_Eval.Entity\obj\Debug\net8.0\DI2-P2-Back_Eval.Entity.dll
+C:\Users\Kourdouch\Documents\DIIAGE\DI2\P2\P2_Eval\DI2-P2-Back_Eval\DI2-P2-Back_Eval.Entity\obj\Debug\net8.0\refint\DI2-P2-Back_Eval.Entity.dll
+C:\Users\Kourdouch\Documents\DIIAGE\DI2\P2\P2_Eval\DI2-P2-Back_Eval\DI2-P2-Back_Eval.Entity\obj\Debug\net8.0\DI2-P2-Back_Eval.Entity.pdb
+C:\Users\Kourdouch\Documents\DIIAGE\DI2\P2\P2_Eval\DI2-P2-Back_Eval\DI2-P2-Back_Eval.Entity\obj\Debug\net8.0\ref\DI2-P2-Back_Eval.Entity.dll

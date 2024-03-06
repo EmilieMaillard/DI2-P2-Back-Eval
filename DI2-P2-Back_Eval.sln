@@ -1,7 +1,5 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DI2-P2-Back_Eval.API", "DI2-P2-Back_Eval.API\DI2-P2-Back_Eval.API.csproj", "{0FCDA834-8D44-4C1A-8EC1-A772C3A2AD02}"
-EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DI2-P2-Back_Eval.Common", "DI2-P2-Back_Eval.Common\DI2-P2-Back_Eval.Common.csproj", "{BBF72719-561E-4745-9772-2946F93687A9}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DI2-P2-Back_Eval.DAL", "DI2-P2-Back_Eval.DAL\DI2-P2-Back_Eval.DAL.csproj", "{33FCE820-9A23-4B0C-9CF3-3D809F86B47D}"
@@ -18,16 +16,14 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DI2-P2-Back_Eval.Repository
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DI2-P2-Back_Eval.DTO", "DI2-P2-Back_Eval.DTO\DI2-P2-Back_Eval.DTO.csproj", "{EECD97CB-F87A-4AC1-A2CE-534B1B3318B4}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DI2-P2-Back_Eval.API", "DI2-P2-Back_Eval.API\DI2-P2-Back_Eval.API.csproj", "{2E75EB27-B1B7-4727-9C97-C8B8BBD2277A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{0FCDA834-8D44-4C1A-8EC1-A772C3A2AD02}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{0FCDA834-8D44-4C1A-8EC1-A772C3A2AD02}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{0FCDA834-8D44-4C1A-8EC1-A772C3A2AD02}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{0FCDA834-8D44-4C1A-8EC1-A772C3A2AD02}.Release|Any CPU.Build.0 = Release|Any CPU
 		{BBF72719-561E-4745-9772-2946F93687A9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{BBF72719-561E-4745-9772-2946F93687A9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BBF72719-561E-4745-9772-2946F93687A9}.Release|Any CPU.ActiveCfg = Release|Any CPU
@@ -60,5 +56,9 @@ Global
 		{EECD97CB-F87A-4AC1-A2CE-534B1B3318B4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{EECD97CB-F87A-4AC1-A2CE-534B1B3318B4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{EECD97CB-F87A-4AC1-A2CE-534B1B3318B4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2E75EB27-B1B7-4727-9C97-C8B8BBD2277A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2E75EB27-B1B7-4727-9C97-C8B8BBD2277A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2E75EB27-B1B7-4727-9C97-C8B8BBD2277A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2E75EB27-B1B7-4727-9C97-C8B8BBD2277A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
