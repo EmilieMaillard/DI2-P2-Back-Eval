@@ -10,3 +10,13 @@ C:\Users\Kourdouch\Documents\DIIAGE\DI2\P2\P2_Eval\DI2-P2-Back_Eval\DI2-P2-Back_
 C:\Users\Kourdouch\Documents\DIIAGE\DI2\P2\P2_Eval\DI2-P2-Back_Eval\DI2-P2-Back_Eval.Repository\obj\Debug\net8.0\refint\DI2-P2-Back_Eval.Repository.dll
 C:\Users\Kourdouch\Documents\DIIAGE\DI2\P2\P2_Eval\DI2-P2-Back_Eval\DI2-P2-Back_Eval.Repository\obj\Debug\net8.0\DI2-P2-Back_Eval.Repository.pdb
 C:\Users\Kourdouch\Documents\DIIAGE\DI2\P2\P2_Eval\DI2-P2-Back_Eval\DI2-P2-Back_Eval.Repository\obj\Debug\net8.0\ref\DI2-P2-Back_Eval.Repository.dll
+C:\Users\Kourdouch\Documents\DIIAGE\DI2\P2\P2_Eval\DI2-P2-Back_Eval\DI2-P2-Back_Eval.Repository\bin\Debug\net8.0\DI2-P2-Back_Eval.DAL.dll
+C:\Users\Kourdouch\Documents\DIIAGE\DI2\P2\P2_Eval\DI2-P2-Back_Eval\DI2-P2-Back_Eval.Repository\bin\Debug\net8.0\DI2-P2-Back_Eval.Entity.dll
+C:\Users\Kourdouch\Documents\DIIAGE\DI2\P2\P2_Eval\DI2-P2-Back_Eval\DI2-P2-Back_Eval.Repository\bin\Debug\net8.0\DI2-P2-Back_Eval.Repository.Contracts.dll
+C:\Users\Kourdouch\Documents\DIIAGE\DI2\P2\P2_Eval\DI2-P2-Back_Eval\DI2-P2-Back_Eval.Repository\bin\Debug\net8.0\DI2-P2-Back_Eval.Service.Contracts.dll
+C:\Users\Kourdouch\Documents\DIIAGE\DI2\P2\P2_Eval\DI2-P2-Back_Eval\DI2-P2-Back_Eval.Repository\bin\Debug\net8.0\DI2-P2-Back_Eval.DAL.pdb
+C:\Users\Kourdouch\Documents\DIIAGE\DI2\P2\P2_Eval\DI2-P2-Back_Eval\DI2-P2-Back_Eval.Repository\bin\Debug\net8.0\DI2-P2-Back_Eval.Repository.Contracts.pdb
+C:\Users\Kourdouch\Documents\DIIAGE\DI2\P2\P2_Eval\DI2-P2-Back_Eval\DI2-P2-Back_Eval.Repository\bin\Debug\net8.0\DI2-P2-Back_Eval.Entity.pdb
+C:\Users\Kourdouch\Documents\DIIAGE\DI2\P2\P2_Eval\DI2-P2-Back_Eval\DI2-P2-Back_Eval.Repository\bin\Debug\net8.0\DI2-P2-Back_Eval.Service.Contracts.pdb
+C:\Users\Kourdouch\Documents\DIIAGE\DI2\P2\P2_Eval\DI2-P2-Back_Eval\DI2-P2-Back_Eval.Repository\obj\Debug\net8.0\DI2-P2-Back_Eval.Repository.csproj.AssemblyReference.cache
+C:\Users\Kourdouch\Documents\DIIAGE\DI2\P2\P2_Eval\DI2-P2-Back_Eval\DI2-P2-Back_Eval.Repository\obj\Debug\net8.0\DI2-P2-B.7FD168DA.Up2Date

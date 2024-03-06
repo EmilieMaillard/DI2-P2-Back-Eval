@@ -1,3 +1,7 @@
+using DI2_P2_Back_Eval.Repository;
+using DI2_P2_Back_Eval.Repository.Contracts;
+using DI2_P2_Back_Eval.Service;
+using DI2_P2_Back_Eval.Service.Contracts;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
@@ -8,6 +12,8 @@ var host = new HostBuilder()
     .ConfigureServices(services =>
     {
         services.AddDbContext<DbContext>();
+        services.AddTransient<IEventService, EventService>();
+        services.AddTransient<IEventRepository, EventRepository>();
     })
 .Build();
 

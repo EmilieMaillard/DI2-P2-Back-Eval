@@ -28,6 +28,9 @@
             "projectReferences": {
               "C:\\Users\\Kourdouch\\Documents\\DIIAGE\\DI2\\P2\\P2_Eval\\DI2-P2-Back_Eval\\DI2-P2-Back_Eval.Entity\\DI2-P2-Back_Eval.Entity.csproj": {
                 "projectPath": "C:\\Users\\Kourdouch\\Documents\\DIIAGE\\DI2\\P2\\P2_Eval\\DI2-P2-Back_Eval\\DI2-P2-Back_Eval.Entity\\DI2-P2-Back_Eval.Entity.csproj"
+              },
+              "C:\\Users\\Kourdouch\\Documents\\DIIAGE\\DI2\\P2\\P2_Eval\\DI2-P2-Back_Eval\\DI2-P2-Back_Eval.Service.Contracts\\DI2-P2-Back_Eval.Service.Contracts.csproj": {
+                "projectPath": "C:\\Users\\Kourdouch\\Documents\\DIIAGE\\DI2\\P2\\P2_Eval\\DI2-P2-Back_Eval\\DI2-P2-Back_Eval.Service.Contracts\\DI2-P2-Back_Eval.Service.Contracts.csproj"
               }
             }
           }
@@ -36,6 +39,11 @@
           "warnAsError": [
             "NU1605"
           ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -105,6 +113,73 @@
           "warnAsError": [
             "NU1605"
           ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.201/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Kourdouch\\Documents\\DIIAGE\\DI2\\P2\\P2_Eval\\DI2-P2-Back_Eval\\DI2-P2-Back_Eval.Service.Contracts\\DI2-P2-Back_Eval.Service.Contracts.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Kourdouch\\Documents\\DIIAGE\\DI2\\P2\\P2_Eval\\DI2-P2-Back_Eval\\DI2-P2-Back_Eval.Service.Contracts\\DI2-P2-Back_Eval.Service.Contracts.csproj",
+        "projectName": "DI2-P2-Back_Eval.Service.Contracts",
+        "projectPath": "C:\\Users\\Kourdouch\\Documents\\DIIAGE\\DI2\\P2\\P2_Eval\\DI2-P2-Back_Eval\\DI2-P2-Back_Eval.Service.Contracts\\DI2-P2-Back_Eval.Service.Contracts.csproj",
+        "packagesPath": "C:\\Users\\Kourdouch\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Kourdouch\\Documents\\DIIAGE\\DI2\\P2\\P2_Eval\\DI2-P2-Back_Eval\\DI2-P2-Back_Eval.Service.Contracts\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Kourdouch\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\Kourdouch\\Documents\\DIIAGE\\DI2\\P2\\P2_Eval\\DI2-P2-Back_Eval\\DI2-P2-Back_Eval.Entity\\DI2-P2-Back_Eval.Entity.csproj": {
+                "projectPath": "C:\\Users\\Kourdouch\\Documents\\DIIAGE\\DI2\\P2\\P2_Eval\\DI2-P2-Back_Eval\\DI2-P2-Back_Eval.Entity\\DI2-P2-Back_Eval.Entity.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
         }
       },
       "frameworks": {

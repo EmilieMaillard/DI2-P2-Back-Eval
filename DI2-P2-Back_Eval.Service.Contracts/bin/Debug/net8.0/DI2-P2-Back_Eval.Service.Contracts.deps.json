@@ -7,14 +7,27 @@
   "targets": {
     ".NETCoreApp,Version=v8.0": {
       "DI2-P2-Back_Eval.Service.Contracts/1.0.0": {
+        "dependencies": {
+          "DI2-P2-Back_Eval.Entity": "1.0.0"
+        },
         "runtime": {
           "DI2-P2-Back_Eval.Service.Contracts.dll": {}
+        }
+      },
+      "DI2-P2-Back_Eval.Entity/1.0.0": {
+        "runtime": {
+          "DI2-P2-Back_Eval.Entity.dll": {}
         }
       }
     }
   },
   "libraries": {
     "DI2-P2-Back_Eval.Service.Contracts/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "DI2-P2-Back_Eval.Entity/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

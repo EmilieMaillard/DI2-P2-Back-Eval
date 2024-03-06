@@ -8,7 +8,7 @@ public class DbContextFactory : IDesignTimeDbContextFactory<DbContext>
     public DbContext CreateDbContext(string[] args)
     {
         var optionsBuilder = new DbContextOptionsBuilder<DbContext>();
-        optionsBuilder.UseSqlServer("Server=EMILIEMAILLARD;Database=DbDi2P2Eval;Trusted_Connection=True;TrustServerCertificate=True");
+        optionsBuilder.UseSqlServer("Server=EMILIEMAILLARD;Database=DbDi2P2Evaluation;Trusted_Connection=True;TrustServerCertificate=True");
 
         return new DbContext(optionsBuilder.Options);
     }

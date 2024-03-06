@@ -9,6 +9,7 @@
       "DI2-P2-Back_Eval.DAL/1.0.0": {
         "dependencies": {
           "DI2-P2-Back_Eval.Entity": "1.0.0",
+          "DI2-P2-Back_Eval.Service.Contracts": "1.0.0",
           "Microsoft.EntityFrameworkCore": "8.0.2",
           "Microsoft.EntityFrameworkCore.Design": "8.0.2",
           "Microsoft.EntityFrameworkCore.SqlServer": "8.0.2"
@@ -919,6 +920,14 @@
         "runtime": {
           "DI2-P2-Back_Eval.Entity.dll": {}
         }
+      },
+      "DI2-P2-Back_Eval.Service.Contracts/1.0.0": {
+        "dependencies": {
+          "DI2-P2-Back_Eval.Entity": "1.0.0"
+        },
+        "runtime": {
+          "DI2-P2-Back_Eval.Service.Contracts.dll": {}
+        }
       }
     }
   },
@@ -1454,6 +1463,11 @@
       "hashPath": "system.windows.extensions.6.0.0.nupkg.sha512"
     },
     "DI2-P2-Back_Eval.Entity/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "DI2-P2-Back_Eval.Service.Contracts/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

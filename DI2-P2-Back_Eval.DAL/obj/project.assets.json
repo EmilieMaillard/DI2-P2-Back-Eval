@@ -1499,6 +1499,19 @@
         "runtime": {
           "bin/placeholder/DI2-P2-Back_Eval.Entity.dll": {}
         }
+      },
+      "DI2-P2-Back_Eval.Service.Contracts/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "dependencies": {
+          "DI2-P2-Back_Eval.Entity": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/DI2-P2-Back_Eval.Service.Contracts.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/DI2-P2-Back_Eval.Service.Contracts.dll": {}
+        }
       }
     }
   },
@@ -4052,11 +4065,17 @@
       "type": "project",
       "path": "../DI2-P2-Back_Eval.Entity/DI2-P2-Back_Eval.Entity.csproj",
       "msbuildProject": "../DI2-P2-Back_Eval.Entity/DI2-P2-Back_Eval.Entity.csproj"
+    },
+    "DI2-P2-Back_Eval.Service.Contracts/1.0.0": {
+      "type": "project",
+      "path": "../DI2-P2-Back_Eval.Service.Contracts/DI2-P2-Back_Eval.Service.Contracts.csproj",
+      "msbuildProject": "../DI2-P2-Back_Eval.Service.Contracts/DI2-P2-Back_Eval.Service.Contracts.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net8.0": [
       "DI2-P2-Back_Eval.Entity >= 1.0.0",
+      "DI2-P2-Back_Eval.Service.Contracts >= 1.0.0",
       "Microsoft.EntityFrameworkCore >= 8.0.2",
       "Microsoft.EntityFrameworkCore.Design >= 8.0.2",
       "Microsoft.EntityFrameworkCore.SqlServer >= 8.0.2"
@@ -4089,6 +4108,9 @@
           "projectReferences": {
             "C:\\Users\\Kourdouch\\Documents\\DIIAGE\\DI2\\P2\\P2_Eval\\DI2-P2-Back_Eval\\DI2-P2-Back_Eval.Entity\\DI2-P2-Back_Eval.Entity.csproj": {
               "projectPath": "C:\\Users\\Kourdouch\\Documents\\DIIAGE\\DI2\\P2\\P2_Eval\\DI2-P2-Back_Eval\\DI2-P2-Back_Eval.Entity\\DI2-P2-Back_Eval.Entity.csproj"
+            },
+            "C:\\Users\\Kourdouch\\Documents\\DIIAGE\\DI2\\P2\\P2_Eval\\DI2-P2-Back_Eval\\DI2-P2-Back_Eval.Service.Contracts\\DI2-P2-Back_Eval.Service.Contracts.csproj": {
+              "projectPath": "C:\\Users\\Kourdouch\\Documents\\DIIAGE\\DI2\\P2\\P2_Eval\\DI2-P2-Back_Eval\\DI2-P2-Back_Eval.Service.Contracts\\DI2-P2-Back_Eval.Service.Contracts.csproj"
             }
           }
         }
@@ -4097,6 +4119,11 @@
         "warnAsError": [
           "NU1605"
         ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
       }
     },
     "frameworks": {

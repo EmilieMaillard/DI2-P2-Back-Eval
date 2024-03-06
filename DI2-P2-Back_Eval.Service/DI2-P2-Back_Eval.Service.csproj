@@ -7,4 +7,11 @@
         <Nullable>enable</Nullable>
     </PropertyGroup>
 
+    <ItemGroup>
+      <ProjectReference Include="..\DI2-P2-Back_Eval.Entity\DI2-P2-Back_Eval.Entity.csproj" />
+      <ProjectReference Include="..\DI2-P2-Back_Eval.Repository.Contracts\DI2-P2-Back_Eval.Repository.Contracts.csproj" />
+      <ProjectReference Include="..\DI2-P2-Back_Eval.Repository\DI2-P2-Back_Eval.Repository.csproj" />
+      <ProjectReference Include="..\DI2-P2-Back_Eval.Service.Contracts\DI2-P2-Back_Eval.Service.Contracts.csproj" />
+    </ItemGroup>
+
 </Project>

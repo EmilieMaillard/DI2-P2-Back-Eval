@@ -16,3 +16,5 @@ C:\Users\Kourdouch\Documents\DIIAGE\DI2\P2\P2_Eval\DI2-P2-Back_Eval\DI2-P2-Back_
 C:\Users\Kourdouch\Documents\DIIAGE\DI2\P2\P2_Eval\DI2-P2-Back_Eval\DI2-P2-Back_Eval.DAL\obj\Debug\net8.0\DI2-P2-Back_Eval.DAL.pdb
 C:\Users\Kourdouch\Documents\DIIAGE\DI2\P2\P2_Eval\DI2-P2-Back_Eval\DI2-P2-Back_Eval.DAL\obj\Debug\net8.0\DI2-P2-Back_Eval.DAL.genruntimeconfig.cache
 C:\Users\Kourdouch\Documents\DIIAGE\DI2\P2\P2_Eval\DI2-P2-Back_Eval\DI2-P2-Back_Eval.DAL\obj\Debug\net8.0\ref\DI2-P2-Back_Eval.DAL.dll
+C:\Users\Kourdouch\Documents\DIIAGE\DI2\P2\P2_Eval\DI2-P2-Back_Eval\DI2-P2-Back_Eval.DAL\bin\Debug\net8.0\DI2-P2-Back_Eval.Service.Contracts.dll
+C:\Users\Kourdouch\Documents\DIIAGE\DI2\P2\P2_Eval\DI2-P2-Back_Eval\DI2-P2-Back_Eval.DAL\bin\Debug\net8.0\DI2-P2-Back_Eval.Service.Contracts.pdb

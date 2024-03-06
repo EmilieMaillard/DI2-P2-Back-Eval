@@ -1,11 +1,30 @@
 {
   "version": 3,
   "targets": {
-    "net8.0": {}
+    "net8.0": {
+      "DI2-P2-Back_Eval.Entity/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/DI2-P2-Back_Eval.Entity.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/DI2-P2-Back_Eval.Entity.dll": {}
+        }
+      }
+    }
   },
-  "libraries": {},
+  "libraries": {
+    "DI2-P2-Back_Eval.Entity/1.0.0": {
+      "type": "project",
+      "path": "../DI2-P2-Back_Eval.Entity/DI2-P2-Back_Eval.Entity.csproj",
+      "msbuildProject": "../DI2-P2-Back_Eval.Entity/DI2-P2-Back_Eval.Entity.csproj"
+    }
+  },
   "projectFileDependencyGroups": {
-    "net8.0": []
+    "net8.0": [
+      "DI2-P2-Back_Eval.Entity >= 1.0.0"
+    ]
   },
   "packageFolders": {
     "C:\\Users\\Kourdouch\\.nuget\\packages\\": {}
@@ -31,13 +50,22 @@
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\Kourdouch\\Documents\\DIIAGE\\DI2\\P2\\P2_Eval\\DI2-P2-Back_Eval\\DI2-P2-Back_Eval.Entity\\DI2-P2-Back_Eval.Entity.csproj": {
+              "projectPath": "C:\\Users\\Kourdouch\\Documents\\DIIAGE\\DI2\\P2\\P2_Eval\\DI2-P2-Back_Eval\\DI2-P2-Back_Eval.Entity\\DI2-P2-Back_Eval.Entity.csproj"
+            }
+          }
         }
       },
       "warningProperties": {
         "warnAsError": [
           "NU1605"
         ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
       }
     },
     "frameworks": {
