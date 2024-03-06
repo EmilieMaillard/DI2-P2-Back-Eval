@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "DI2_P2_Back_Eval.API": {
+      "commandName": "Project",
+      "commandLineArgs": "--port 7166",
+      "launchBrowser": false
+    }
+  }
+}
