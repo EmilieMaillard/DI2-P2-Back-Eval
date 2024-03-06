@@ -39,4 +39,13 @@ public class EventService : IEventService
     {
         return _eventRepository.GetAll();
     }
+    
+    /// <summary>
+    /// Update an event in the database.
+    /// </summary>
+    /// <param name="entity"> The event to update. </param>
+    public void UpdateAsync(Event entity)
+    {
+        _eventRepository.UpdateAsync(entity);
+    }
 }

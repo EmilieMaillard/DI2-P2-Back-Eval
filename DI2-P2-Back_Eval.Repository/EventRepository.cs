@@ -39,6 +39,16 @@ public class EventRepository : IEventRepository
         return _dbContext.Set<Event>().ToList();
     }
     
+    /// <summary>
+    /// Update an event in the database.
+    /// </summary>
+    /// <param name="entity"> The event to update. </param>
+    public void UpdateAsync(Event entity)
+    {
+        _dbContext.Update(entity);
+        _dbContext.SaveChanges();
+    }
+    
     
     
 }

@@ -16,5 +16,11 @@ public interface IEventRepository
     /// <returns></returns>
     List<Event> GetAll();
     
+    /// <summary>
+    /// Update an event in the database.
+    /// </summary>
+    /// <param name="entity"> The event to update. </param>
+    void UpdateAsync(Event entity);
+    
     
 }
